@@ -34,6 +34,7 @@
     "@web3modal/react": "^2.3.0",
     "env-cmd": "^10.1.0",
     "ethers": "^5.7.2",
+    "gulp": "^4.0.2",
     "html-react-parser": "^3.0.13",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
