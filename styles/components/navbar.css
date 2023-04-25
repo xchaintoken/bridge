@@ -1,0 +1,25 @@
+[data-navbar="light"] {
+  .navbar,.footer {
+    @apply text-slate-900;
+    @apply bg-white border-slate-100;
+    .navbar-search {
+      input {
+      @apply bg-slate-100 border-slate-100;
+      }
+    }
+  }
+}
+
+[data-navbar="dark"] {
+  .navbar,.footer {
+    @apply text-white;
+    background: #1a1919;
+    border-color: #1a1919;
+    .navbar-search {
+      input {
+        background: color(theme('colors.slate.900'));
+        border-color: color(theme('colors.slate.900'));
+      }
+    }
+  }
+}
