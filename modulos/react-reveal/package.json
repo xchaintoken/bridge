@@ -20,7 +20,7 @@
   "homepage": "https://www.react-reveal.com",
   "main": "./index.js",
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.8.1"
   },
   "peerDependencies": {
     "react": "^18.2.0"
